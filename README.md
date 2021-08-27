@@ -58,8 +58,8 @@ Having done both Platform and Partner Engineering for over a decade, I bring dee
 | | | | |
 |:--:|:--:|:--:|:--:|
 | *Conference* | NVIDIA Financial Services Forum 2019 | Asset management with modern ML and Graph techniques. Presented in London, December 2019. |
-| *Conference* | omTom ML Conf | Machine Learning on X-Rays for Low-Cost Tuberculosis Infection Detection - TomTom ML Conf |
+| *Conference* | TomTom ML Conf | Machine Learning on X-Rays for Low-Cost Tuberculosis Infection Detection - TomTom ML Conf |
 | *Conference* | HIMSS-2017 | Machine Learning in Medicine - Organizational Setup and Enterprise Architecture. HIMSS-2017. |
 | *Conference* | HIS 2015 | Infection Control via Augmented Reality. Hospital Infection Society, Annual Conference, HIS 2015. |
-| *Book* | Machine Learning with TensorFlow. PACKT Publishing, 2017. Co-author. |
+| *Book* | Machine Learning with TensorFlow. Co-author | PACKT Publishing, 2017 |
 
