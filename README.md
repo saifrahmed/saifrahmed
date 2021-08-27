@@ -1,4 +1,4 @@
-### Hi there 👋
+### hello world 👋
 
 <!--
 **saifrahmed/saifrahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-
 # Hello
-My name is Tim, I am currently head of software engineering at [IEX Cloud](https://github.com/iexcloud).
+
+My name is Saif. I'm an accomplished product leader, quantitative platform developer, and ML practitioner who has consistently tackled tough, real-life problems and successfully delivered lasting platforms and solutions.
+
+I'm especially good at balancing ground-level efforts with user interaction, stakeholder management, and organizational savvy to help deliver solutions which will be accepted and flourish in difficult enterprise settings. I have significant professional experience leading major strategic initiatives with complex quantitative/analytical components. I prefer being hands-on at least part of the time – analyzing data, prototyping solutions and working with teams on-the-ground.
+
+Having done both Platform and Partner Engineering for over a decade, I bring deep ground-level experience instead of just applying theoretical enterprise architecture. Everything from evaluating components for correctness to facing Regulators to defend firm interests. My past work lives on -- at stock exchanges, global clearing facilities, banks, hedge funds, hospitals, and at US defense+intelligence facilities.
 
 [![](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/saifrahmed/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/saifrahmed?style=social)](https://twitter.com/saifrahmed)
