@@ -46,7 +46,7 @@ My background is building high performance, full stack applications for front of
 | UC Berkeley | M.S. Information and Data Science |
 | Cornell University | B.S. Computer Science |
 
-## Media
+## Select Talks & Publications
 
 | | | | |
 |:--:|:--:|:--:|:--:|
