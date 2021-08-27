@@ -45,6 +45,14 @@ My background is building high performance, full stack applications for front of
 |:--:|:--:|
 | UC Berkeley | M.S. Information and Data Science |
 | Cornell University | B.S. Computer Science |
+| The Rockefeller University | SEED Fellow |
+| The Rockefeller University | Summer Fellow |
+
+## Awards
+* Bill Clinton Award for Academic Achievement
+* Westinghouse Science Talent Search National Semifinalist
+* Hal Varian Award winner for best capstone project: “DeepJams: ML Meets Music Composition”
+
 
 ## Select Talks & Publications
 
