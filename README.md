@@ -1,4 +1,4 @@
-### hello world 👋
+# hello world, its saif!
 
 <!--
 **saifrahmed/saifrahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-# Hello
 
 My name is Saif. I'm an accomplished product leader, quantitative platform developer, and ML practitioner who has consistently tackled tough, real-life problems and successfully delivered lasting platforms and solutions.
 
