@@ -29,7 +29,6 @@ Having done both Platform and Partner Engineering for over a decade, I bring dee
 
 
 ## Experience
-My background is building high performance, full stack applications for front office business users and developers, focusing on streaming data, analytics, and machine learning. 
 
 | | | |
 |:--:|:--:|:--:|
@@ -58,8 +57,9 @@ My background is building high performance, full stack applications for front of
 
 | | | | |
 |:--:|:--:|:--:|:--:|
-| *Production Notebooks* | **JupyterCon 2020**  | [link to presentation](https://tim.paine.nyc/talks/jupytercon.html#/) | |
-| *Beyond Spreadsheets* | **NYC Data Council 2020** | [recording](https://youtu.be/PYTVU4A_3Kc) | w/ Jeff Sternberg ([@sternb0t](https://github.com/sternb0t)) <br> Technical Director Google  |
-| *JPMorgan's requirement for new staff: coding lessons* | **Financial Times - 2018** | [link](https://www.ft.com/content/4c17d6ce-c8b2-11e8-ba8f-ee390057b8c9) | |
-| *JPMorgan's Python training guide for analysts and traders* | **efinancialcareers - 2020** | [link](https://news.efinancialcareers.com/us-en/3004043/jpmorgan-python-training-analysts-and-traders) | | 
+| *Conference* | NVIDIA Financial Services Forum 2019 | Asset management with modern ML and Graph techniques. Presented in London, December 2019. |
+| *Conference* | omTom ML Conf | Machine Learning on X-Rays for Low-Cost Tuberculosis Infection Detection - TomTom ML Conf |
+| *Conference* | HIMSS-2017 | Machine Learning in Medicine - Organizational Setup and Enterprise Architecture. HIMSS-2017. |
+| *Conference* | HIS 2015 | Infection Control via Augmented Reality. Hospital Infection Society, Annual Conference, HIS 2015. |
+| *Book* | Machine Learning with TensorFlow. PACKT Publishing, 2017. Co-author. |
 
