@@ -33,9 +33,12 @@ My background is building high performance, full stack applications for front of
 
 | | | |
 |:--:|:--:|:--:|
-| <img width="100" src="./iex.png" alt="IEX"></img> | [IEX](https://iextrading.com) | Head of Software Engineeering - [IEX Cloud](https://iexcloud.io) |
-| <img width="100" src="./jpmorgan.png" alt="J.P. Morgan"></img> | [J.P. Morgan](https://www.jpmorgan.com/global) | Vice President - Athena Research |
-| <img width="100" src="./maystreet.png" alt="MayStreet"></img> | [MayStreet](https://maystreet.com) |  Software Engineer |
+| <img width="100" src="./iex.png" alt="Kinetica"></img> | [Kinetica](https://kinetica.com) | Director of Engineering, ML |
+| <img width="100" src="./jpmorgan.png" alt="DocHuddle"></img> | [DocHuddle](https://www.dochuddle.com/) | Chief Technology Officer |
+| <img width="100" src="./maystreet.png" alt="AIG Investments"></img> | [AIG Investments](https://www.aig.com/globalrealestate) |  Chief Quantitative Technologist |
+| <img width="100" src="./maystreet.png" alt="Goldman Sachs"></img> | [Goldman Sachs](https://www.goldmansachs.com/) |  Sr. Associated, Derivatives X-Technology |
+| <img width="100" src="./maystreet.png" alt="Accenture"></img> | [Accenture](https://accenture.com) |  Consultant, NY Capital Markets Group |
+
 
 ## Teaching
 I have taught in the Computer Science department at Columbia University since 2015. More information is available on [my Columbia website](https://www.cs.columbia.edu/~paine/).
