@@ -40,12 +40,11 @@ Having done both Platform and Partner Engineering for over a decade, I bring dee
 
 
 ## Education
-| | | 
-|:--:|:--:|
-| UC Berkeley | M.S. Information and Data Science |
-| Cornell University | B.S. Computer Science |
-| The Rockefeller University | SEED Fellow |
-| The Rockefeller University | Summer Fellow |
+| | | |
+|:--:|:--:|:--:|
+| <img width="100" src="./logos/berkeley.png" alt="Kinetica"></img> |UC Berkeley | M.S. Information and Data Science |
+| <img width="100" src="./logos/cornell.gif" alt="Kinetica"></img> |Cornell University | B.S. Computer Science |
+| <img width="100" src="./logos/roc.png" alt="Kinetica"></img> |The Rockefeller University | Summer Fellow |
 
 ## Awards
 * Bill Clinton Award for Academic Achievement
