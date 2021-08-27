@@ -40,8 +40,9 @@ My background is building high performance, full stack applications for front of
 | <img width="100" src="./maystreet.png" alt="Accenture"></img> | [Accenture](https://accenture.com) |  Consultant, NY Capital Markets Group |
 
 
-## Teaching
-I have taught in the Computer Science department at Columbia University since 2015. More information is available on [my Columbia website](https://www.cs.columbia.edu/~paine/).
+## Education
+| UC Berkeley | M.S. Information and Data Science |
+| Cornell University | B.S. Computer Science |
 
 ## Media
 
