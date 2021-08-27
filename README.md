@@ -32,7 +32,7 @@ Having done both Platform and Partner Engineering for over a decade, I bring dee
 
 | | | |
 |:--:|:--:|:--:|
-| <img width="100" src="./iex.png" alt="Kinetica"></img> | [Kinetica](https://kinetica.com) | Director of Engineering, ML |
+| <img width="100" src="./logos/accenture.png" alt="Kinetica"></img> | [Kinetica](https://kinetica.com) | Director of Engineering, ML |
 | <img width="100" src="./jpmorgan.png" alt="DocHuddle"></img> | [DocHuddle](https://www.dochuddle.com/) | Chief Technology Officer |
 | <img width="100" src="./maystreet.png" alt="AIG Investments"></img> | [AIG Investments](https://www.aig.com/globalrealestate) |  Chief Quantitative Technologist |
 | <img width="100" src="./maystreet.png" alt="Goldman Sachs"></img> | [Goldman Sachs](https://www.goldmansachs.com/) |  Sr. Associated, Derivatives X-Technology |
