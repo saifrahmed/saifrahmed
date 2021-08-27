@@ -30,7 +30,7 @@ Having done both Platform and Partner Engineering for over a decade, I bring dee
 
 | | | |
 |:--:|:--:|:--:|
-| <img width="100" src="./logos/kinetica.png" alt="Kinetica"></img> | [Kinetica](https://kinetica.com) | Director of Engineering, ML; Director of Developer Relations |
+| <img width="100" src="./logos/kinetica.png" alt="Kinetica"></img> | [Kinetica](https://kinetica.com) | Director of Engineering, ML<br />Director of Developer Relations |
 | <img width="100" src="./logos/dochuddle.jpg" alt="DocHuddle"></img> | [DocHuddle](https://www.dochuddle.com/) | Chief Technology Officer |
 | <img width="100" src="./logos/aigfp.jpg" alt="AIG Investments"></img> | [AIG Investments](https://www.aig.com/globalrealestate) |  Chief Quantitative Technologist |
 | <img width="100" src="./logos/gs.jpg" alt="Goldman Sachs"></img> | [Goldman Sachs](https://www.goldmansachs.com/) |  Sr. Associated, Derivatives X-Technology |
@@ -42,7 +42,7 @@ Having done both Platform and Partner Engineering for over a decade, I bring dee
 |:--:|:--:|:--:|
 | <img width="100" src="./logos/berkeley.png" alt="Kinetica"></img> |UC Berkeley | M.S. Information and Data Science |
 | <img width="100" src="./logos/cornell.gif" alt="Kinetica"></img> |Cornell University | B.S. Computer Science |
-| <img width="100" src="./logos/roc.png" alt="Kinetica"></img> |The Rockefeller University | Summer Fellow; SEED Fellow |
+| <img width="100" src="./logos/roc.png" alt="Kinetica"></img> |The Rockefeller University | Summer Fellow<br />SEED Fellow |
 
 ## Awards
 * Bill Clinton Award for Academic Achievement
