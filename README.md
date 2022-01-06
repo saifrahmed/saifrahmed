@@ -22,7 +22,7 @@ I'm especially good at balancing ground-level efforts with user interaction, sta
 Having done both Platform and Partner Engineering for over a decade, I bring deep ground-level experience instead of just applying theoretical enterprise architecture. Everything from evaluating components for correctness to facing Regulators to defend firm interests. My past work lives on -- at stock exchanges, global clearing facilities, banks, hedge funds, hospitals, and at US defense+intelligence facilities.
 
 [![](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/saifrahmed/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/saifrahmed?style=social)](https://twitter.com/saifrahmed)
+[![Twitter Follow](https://img.shields.io/twitter/follow/SaifAhmedBKNY?style=social)](https://twitter.com/SaifAhmedBKNY)
 
 
 
