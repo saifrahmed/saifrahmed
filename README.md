@@ -65,5 +65,5 @@ Having done both Platform and Partner Engineering for over a decade, I bring dee
 
 | | |
 |:--:|:--:|
-|<img width="100" src="./logos/aws-certified-cloud-practitioner.png" alt="AWS Cloud">|[AWS Cloud Practitioner](https://www.credly.com/badges/e86a3078-cd52-4bee-9126-e6b9a6a57003/public_url)
+|<img width="100" src="./logos/aws-certified-cloud-practitioner.png" alt="AWS Cloud">|[Certified AWS Cloud Practitioner](https://www.credly.com/badges/e86a3078-cd52-4bee-9126-e6b9a6a57003/public_url)
 
