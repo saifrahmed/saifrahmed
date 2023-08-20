@@ -61,3 +61,9 @@ Having done both Platform and Partner Engineering for over a decade, I bring dee
 | *Conference* | HIS 2015 | Infection Control via Augmented Reality. Hospital Infection Society, Annual Conference, HIS 2015. |
 | *Book* | Machine Learning with TensorFlow. Co-author | PACKT Publishing, 2017 |
 
+## Certifications
+
+| | |
+|:--:|:--:|
+|<img width="100" src="./logos/aws-certified-cloud-practitioner.png" alt="AWS Cloud">|[AWS Cloud Practitioner]([https://www.dochuddle.com/](https://www.credly.com/badges/e86a3078-cd52-4bee-9126-e6b9a6a57003/public_url))
+
