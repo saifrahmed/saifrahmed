@@ -51,11 +51,17 @@ Having done both Platform and Partner Engineering for over a decade, I bring dee
 * Hal Varian Award winner for best capstone project: “DeepJams: ML Meets Music Composition”
 
 
+byJavier de la Torre
+
+Link to the talk Youtube video
+
+
 ## Select Talks & Publications
 
 | | | |
 |:--:|:--:|:--:|
 | *Conference* | NVIDIA Financial Services Forum 2019 | Asset management with modern ML and Graph techniques. Presented in London, December 2019. |
+| *Conference* | Spatial Data Science Conference 2021 | [Panel: New Types of Data for Innovative Spatial Modeling](https://spatial-data-science-conference.com/2021) |
 | *Conference* | TomTom ML Conf | Machine Learning on X-Rays for Low-Cost Tuberculosis Infection Detection - TomTom ML Conf |
 | *Conference* | HIMSS-2017 | Machine Learning in Medicine - Organizational Setup and Enterprise Architecture. HIMSS-2017. |
 | *Conference* | HIS 2015 | Infection Control via Augmented Reality. Hospital Infection Society, Annual Conference, HIS 2015. |
