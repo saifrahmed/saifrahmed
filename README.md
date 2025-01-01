@@ -30,7 +30,9 @@ Having done both Platform and Partner Engineering for over a decade, I bring dee
 
 | | | |
 |:--:|:--:|:--:|
-| <img width="100" src="https://images.squarespace-cdn.com/content/v1/5b553895697a98cf2cef2bc6/1552330918277-G1BEC8KIPH8E6URRR3T4/sh.png" alt="sparks & honey"></img> | [sparks & honey](https://sparksandhoney.com) | Chief Technology Officer<br />SVP, Omnicom Group (NYSE: OMC) |
+| <img width="100" src="https://images.squarespace-cdn.com/content/v1/5b553895697a98cf2cef2bc6/1552330918277-G1BEC8KIPH8E6URRR3T4/sh.png" alt="sparks & honey"></img>
+<br/>
+<img width="100" src="./logos/Omnicom_Group_Logo.jpeg" alt="Omnicom Group"></img>| [sparks & honey](https://sparksandhoney.com) | Chief Technology Officer<br />SVP, Omnicom Group (NYSE: OMC) |
 | <img width="100" src="./logos/kinetica.png" alt="Kinetica"></img> | [Kinetica](https://kinetica.com) | Director of Engineering, ML<br />Director of Developer Relations |
 | <img width="100" src="./logos/dochuddle.jpg" alt="DocHuddle"></img> | [DocHuddle](https://www.dochuddle.com/) | Chief Technology Officer |
 | <img width="100" src="./logos/aigfp.jpg" alt="AIG Investments"></img> | [AIG Investments](https://www.aig.com/globalrealestate) |  Chief Quantitative Technologist |
