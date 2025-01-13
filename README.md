@@ -48,13 +48,7 @@ Having done both Platform and Partner Engineering for over a decade, I bring dee
 ## Awards
 * Bill Clinton Award for Academic Achievement
 * Westinghouse Science Talent Search National Semifinalist
-* Hal Varian Award winner for best capstone project: “DeepJams: ML Meets Music Composition”
-
-
-byJavier de la Torre
-
-Link to the talk Youtube video
-
+* Hal Varian Award winner for best graduate project: “DeepJams: ML Meets Music Composition”
 
 ## Select Talks & Publications
 
